@@ -1,0 +1,17 @@
+E:\My project\tamrin\Mediator\Mediator\bin\Debug\net6.0\Mediator.exe
+E:\My project\tamrin\Mediator\Mediator\bin\Debug\net6.0\Mediator.deps.json
+E:\My project\tamrin\Mediator\Mediator\bin\Debug\net6.0\Mediator.runtimeconfig.json
+E:\My project\tamrin\Mediator\Mediator\bin\Debug\net6.0\Mediator.dll
+E:\My project\tamrin\Mediator\Mediator\bin\Debug\net6.0\Mediator.pdb
+E:\My project\tamrin\Mediator\Mediator\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\My project\tamrin\Mediator\Mediator\obj\Debug\net6.0\Mediator.csproj.AssemblyReference.cache
+E:\My project\tamrin\Mediator\Mediator\obj\Debug\net6.0\Mediator.GeneratedMSBuildEditorConfig.editorconfig
+E:\My project\tamrin\Mediator\Mediator\obj\Debug\net6.0\Mediator.AssemblyInfoInputs.cache
+E:\My project\tamrin\Mediator\Mediator\obj\Debug\net6.0\Mediator.AssemblyInfo.cs
+E:\My project\tamrin\Mediator\Mediator\obj\Debug\net6.0\Mediator.csproj.CoreCompileInputs.cache
+E:\My project\tamrin\Mediator\Mediator\obj\Debug\net6.0\Mediator.csproj.CopyComplete
+E:\My project\tamrin\Mediator\Mediator\obj\Debug\net6.0\Mediator.dll
+E:\My project\tamrin\Mediator\Mediator\obj\Debug\net6.0\refint\Mediator.dll
+E:\My project\tamrin\Mediator\Mediator\obj\Debug\net6.0\Mediator.pdb
+E:\My project\tamrin\Mediator\Mediator\obj\Debug\net6.0\Mediator.genruntimeconfig.cache
+E:\My project\tamrin\Mediator\Mediator\obj\Debug\net6.0\ref\Mediator.dll
