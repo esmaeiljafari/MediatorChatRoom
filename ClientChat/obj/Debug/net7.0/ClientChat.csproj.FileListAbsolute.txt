@@ -1,0 +1,14 @@
+E:\My project\C#\console\GOF\Behavioral\MediatorChatRoom\ClientChat\bin\Debug\net7.0\ClientChat.exe
+E:\My project\C#\console\GOF\Behavioral\MediatorChatRoom\ClientChat\bin\Debug\net7.0\ClientChat.deps.json
+E:\My project\C#\console\GOF\Behavioral\MediatorChatRoom\ClientChat\bin\Debug\net7.0\ClientChat.runtimeconfig.json
+E:\My project\C#\console\GOF\Behavioral\MediatorChatRoom\ClientChat\bin\Debug\net7.0\ClientChat.dll
+E:\My project\C#\console\GOF\Behavioral\MediatorChatRoom\ClientChat\bin\Debug\net7.0\ClientChat.pdb
+E:\My project\C#\console\GOF\Behavioral\MediatorChatRoom\ClientChat\obj\Debug\net7.0\ClientChat.GeneratedMSBuildEditorConfig.editorconfig
+E:\My project\C#\console\GOF\Behavioral\MediatorChatRoom\ClientChat\obj\Debug\net7.0\ClientChat.AssemblyInfoInputs.cache
+E:\My project\C#\console\GOF\Behavioral\MediatorChatRoom\ClientChat\obj\Debug\net7.0\ClientChat.AssemblyInfo.cs
+E:\My project\C#\console\GOF\Behavioral\MediatorChatRoom\ClientChat\obj\Debug\net7.0\ClientChat.csproj.CoreCompileInputs.cache
+E:\My project\C#\console\GOF\Behavioral\MediatorChatRoom\ClientChat\obj\Debug\net7.0\ClientChat.dll
+E:\My project\C#\console\GOF\Behavioral\MediatorChatRoom\ClientChat\obj\Debug\net7.0\refint\ClientChat.dll
+E:\My project\C#\console\GOF\Behavioral\MediatorChatRoom\ClientChat\obj\Debug\net7.0\ClientChat.pdb
+E:\My project\C#\console\GOF\Behavioral\MediatorChatRoom\ClientChat\obj\Debug\net7.0\ClientChat.genruntimeconfig.cache
+E:\My project\C#\console\GOF\Behavioral\MediatorChatRoom\ClientChat\obj\Debug\net7.0\ref\ClientChat.dll

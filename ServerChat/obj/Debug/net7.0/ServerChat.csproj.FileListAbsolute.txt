@@ -1,0 +1,17 @@
+E:\My project\C#\console\GOF\Behavioral\MediatorChatRoom\ServerChat\bin\Debug\net7.0\ServerChat.exe
+E:\My project\C#\console\GOF\Behavioral\MediatorChatRoom\ServerChat\bin\Debug\net7.0\ServerChat.deps.json
+E:\My project\C#\console\GOF\Behavioral\MediatorChatRoom\ServerChat\bin\Debug\net7.0\ServerChat.runtimeconfig.json
+E:\My project\C#\console\GOF\Behavioral\MediatorChatRoom\ServerChat\bin\Debug\net7.0\ServerChat.dll
+E:\My project\C#\console\GOF\Behavioral\MediatorChatRoom\ServerChat\bin\Debug\net7.0\ServerChat.pdb
+E:\My project\C#\console\GOF\Behavioral\MediatorChatRoom\ServerChat\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\My project\C#\console\GOF\Behavioral\MediatorChatRoom\ServerChat\obj\Debug\net7.0\ServerChat.csproj.AssemblyReference.cache
+E:\My project\C#\console\GOF\Behavioral\MediatorChatRoom\ServerChat\obj\Debug\net7.0\ServerChat.GeneratedMSBuildEditorConfig.editorconfig
+E:\My project\C#\console\GOF\Behavioral\MediatorChatRoom\ServerChat\obj\Debug\net7.0\ServerChat.AssemblyInfoInputs.cache
+E:\My project\C#\console\GOF\Behavioral\MediatorChatRoom\ServerChat\obj\Debug\net7.0\ServerChat.AssemblyInfo.cs
+E:\My project\C#\console\GOF\Behavioral\MediatorChatRoom\ServerChat\obj\Debug\net7.0\ServerChat.csproj.CoreCompileInputs.cache
+E:\My project\C#\console\GOF\Behavioral\MediatorChatRoom\ServerChat\obj\Debug\net7.0\ServerChat.csproj.CopyComplete
+E:\My project\C#\console\GOF\Behavioral\MediatorChatRoom\ServerChat\obj\Debug\net7.0\ServerChat.dll
+E:\My project\C#\console\GOF\Behavioral\MediatorChatRoom\ServerChat\obj\Debug\net7.0\refint\ServerChat.dll
+E:\My project\C#\console\GOF\Behavioral\MediatorChatRoom\ServerChat\obj\Debug\net7.0\ServerChat.pdb
+E:\My project\C#\console\GOF\Behavioral\MediatorChatRoom\ServerChat\obj\Debug\net7.0\ServerChat.genruntimeconfig.cache
+E:\My project\C#\console\GOF\Behavioral\MediatorChatRoom\ServerChat\obj\Debug\net7.0\ref\ServerChat.dll
